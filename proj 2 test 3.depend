@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483548573 source:c:\users\jey\documents\programming\proj 2 test 3\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
